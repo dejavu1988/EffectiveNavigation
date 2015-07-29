@@ -26,4 +26,14 @@ proguard/
 # Log Files
 *.log
 
-*.idea
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
